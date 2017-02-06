@@ -1,0 +1,23 @@
+{
+  "name": "homework4",
+  "version": "1.0.0",
+  "description": "rashid homework 4 - dynamic web",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aziz2214/homework4.git"
+  },
+  "author": "rashid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aziz2214/homework4/issues"
+  },
+  "homepage": "https://github.com/aziz2214/homework4#readme"
+}
