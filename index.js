@@ -36,7 +36,4 @@ app.get('/thor', function(req, res) {
 
 
 
-app.listen(3000, function() { 
-    console.log("App Started Successfully!")
-})
-
+app.listen(process.env.PORT || 3000); 
